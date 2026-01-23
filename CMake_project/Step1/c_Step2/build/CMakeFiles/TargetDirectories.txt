@@ -1,0 +1,8 @@
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/CMakeFiles/edit_cache.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/CMakeFiles/rebuild_cache.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/Tutorial/CMakeFiles/Tutorial.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/Tutorial/CMakeFiles/edit_cache.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/Tutorial/CMakeFiles/rebuild_cache.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/ruwa/Documents/Project_Folder/C-Cpp_programming/CMake_project/Step1/c_Step2/build/MathFunctions/CMakeFiles/rebuild_cache.dir

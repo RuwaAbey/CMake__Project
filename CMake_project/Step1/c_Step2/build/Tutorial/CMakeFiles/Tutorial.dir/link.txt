@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Tutorial.dir/Tutorial.cxx.o -o Tutorial  ../MathFunctions/libMathFunctions.a 
