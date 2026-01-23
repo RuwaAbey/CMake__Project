@@ -46,12 +46,12 @@ target_sources(MyLibrary
 )
 ```
 
-## TODO1: Set the minimum required version of CMake to be 3.23
+### TODO1: Set the minimum required version of CMake to be 3.23
 ```cmake
 cmake_minimum_required(VERSION 3.23)
 ```
 
-## TODO2: Create a project named Tutorial
+### TODO2: Create a project named Tutorial
 ```cmake
 project(Tutotrial)
 ```
@@ -61,10 +61,10 @@ project(Tutotrial)
 add_library(MathFunctions)
 ```
 
-## ODO4 Add the source and header file located in Step1/MathFunctions to the
-###      MathFunctions target, note that the intended way to include the
-###      MathFunctions header is:
-###        #include <MathFunctions.h>
+### TODO4 Add the source and header file located in Step1/MathFunctions to the
+MathFunctions target, note that the intended way to include the MathFunctions header is:
+       #include <MathFunctions.h>
+
 ```cmake
 target_sources(MathFunctions
     PRIVATE
@@ -79,6 +79,7 @@ target_sources(MathFunctions
             include/MathFunctions.h
 )
 ```
+
 # Build the library
 
 ```cmake
