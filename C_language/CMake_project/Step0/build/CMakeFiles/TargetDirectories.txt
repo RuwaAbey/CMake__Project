@@ -1,0 +1,3 @@
+/home/ruwa/Documents/Project_Folder/CMake/cmake_project/Step0/build/CMakeFiles/hello.dir
+/home/ruwa/Documents/Project_Folder/CMake/cmake_project/Step0/build/CMakeFiles/edit_cache.dir
+/home/ruwa/Documents/Project_Folder/CMake/cmake_project/Step0/build/CMakeFiles/rebuild_cache.dir
