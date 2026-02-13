@@ -1,0 +1,108 @@
+# =========================
+# Compiled Object Files
+# =========================
+*.o
+*.obj
+*.lo
+*.la
+*.al
+*.libs
+
+# =========================
+# Executables
+# =========================
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Linux binaries (no extension)
+a.out
+
+# =========================
+# Static & Dynamic Libraries
+# =========================
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# =========================
+# Debug / Profiling
+# =========================
+*.dSYM/
+*.su
+*.idb
+*.pdb
+*.mod*
+*.gcno
+*.gcda
+*.gcov
+gmon.out
+valgrind.out
+
+# =========================
+# CMake
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+CTestTestfile.cmake
+build/
+cmake-build-*/
+
+# =========================
+# Autotools
+# =========================
+autom4te.cache/
+aclocal.m4
+configure
+config.log
+config.status
+Makefile.in
+libtool
+m4/
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.sln
+*.opensdf
+*.sdf
+*.cache
+ipch/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Code::Blocks
+# =========================
+*.layout
+*.depend
+*.cbp
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary files
+# =========================
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
