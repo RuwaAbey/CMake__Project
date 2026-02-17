@@ -25,5 +25,7 @@ int main(void){
 	for(int i = 0; i < length; i ++)
 		printf("a[%d]=%d\n", i, a[i]);
 
+	free(a); //free the memory after using it
+
 	return 0;
 }
